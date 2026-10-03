@@ -17,6 +17,6 @@ r = int(input("Enter radius of circle: "))
 print("Area(circle) = ", circle(r))
 
 print("Area of a triangle: ")
-b = int(input("Enter base of triangel: "))
-h = int(input("Enter height of triangle"))
+b = int(input("Enter base of triangle: "))
+h = int(input("Enter height of triangle: "))
 print("Area(triangle) = ", triangle(b, h))
