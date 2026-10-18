@@ -11,15 +11,15 @@ print("Library Book List:", books)
 
 # PART 2 - LIST OPERATIONS
 
-print(""
-Total Books:", len(books))
-print("First Book:", books[0])
-print("Last Book:", books[-1])
-print("First Three Books:", books[:3]))
+print("
+    Total Books:", len(books))
+    print("First Book:", books[0])
+    print("Last Book:", books[-1])
+    print("First Three Books:", books[:3]))
 
 books.append("Diary of a Wimpy Kid")
-print("
-After Adding a Book:", books)
+print("After Adding a Book:", books")
+
 
 books.remove("The Jungle Book")
 print("After Removing a Book:", books)
@@ -40,7 +40,7 @@ librarian = {
 }
 
 print("
-Librarian Profile:", librarian)
+Librarian Profile:", librarian")
 
 
 # PART 4 - DICTIONARY OPERATIONS
@@ -67,7 +67,7 @@ book_names = ["Matilda", "Wonder", "Harry Potter", "Charlotte's Web", "Diary of 
 book_directory = dict(zip(book_ids, book_names))
 
 print("
-Book Directory:", book_directory)
+Book Directory:", book_directory")
 
 
 # FINAL SUMMARY
