@@ -16,4 +16,4 @@ print("Sorted alphabetically: ", classmates)
 classmates.reverse()
 print("Reversed: ", classmates)
 
-teacher = {"name ": "Mr Sharma", "Subject": }
+teacher = {"name ": "Mr Sharma", "Subject": "Coding" }
